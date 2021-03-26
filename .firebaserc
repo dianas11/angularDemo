@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "myclone-55366": {
+      "hosting": {
+        "clone": [
+          "myclone-55366"
+        ]
+      }
+    }
+  }
+}
