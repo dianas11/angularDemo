@@ -33,5 +33,4 @@ export class LoginComponent implements OnInit {
   createAccount() {
     this.auth.signUp(this.LoginForm.value.email, this.LoginForm.value.password)
   }
-
 }

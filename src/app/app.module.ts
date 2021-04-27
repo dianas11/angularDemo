@@ -18,6 +18,7 @@ import { CheckoutProductsComponent } from './COMPONENTS/checkout-products/checko
 import { CheckoutSubtotalComponent } from './COMPONENTS/checkout-subtotal/checkout-subtotal.component';
 import { ReactiveFormsModule } from '@angular/forms';
 import { AngularFireModule } from '@angular/fire';
+
 import { firebaseConfig } from './CONFIG/firebase.config';
 
 @NgModule({

@@ -13,5 +13,4 @@ export class CheckoutSubtotalComponent implements OnInit {
   ngOnInit(): void {
   }
   
-
 }

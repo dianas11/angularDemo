@@ -41,6 +41,7 @@ export class ShoppingCartService {
     return items?.reduce((acc, item)=> acc+item.price, 0)
   }
 
+  
   removerItem = (p)=> {
     console.log('calling remover', p)
     let items = this.getShoppingCartItems();

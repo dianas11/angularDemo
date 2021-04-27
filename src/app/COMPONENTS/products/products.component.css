@@ -8,6 +8,7 @@
     object-fit: contain;
     height: 200px;
 }
+
 .product > mat-card{
     display: flex;
     flex-direction: column;

@@ -25,5 +25,4 @@ export class CheckoutComponent implements OnInit {
     this.getShoppingCart()
   }
 
-  
 }

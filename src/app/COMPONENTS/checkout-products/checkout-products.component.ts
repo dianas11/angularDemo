@@ -20,6 +20,7 @@ export class CheckoutProductsComponent implements OnInit {
   removeItem(p) {
     this.shoppingCartService.removerItem(p)
     this.deleteEvent.emit(p)
+    
   }
 
 }

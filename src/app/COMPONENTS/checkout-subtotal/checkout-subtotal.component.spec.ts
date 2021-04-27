@@ -22,4 +22,5 @@ describe('CheckoutSubtotalComponent', () => {
   it('should create', () => {
     expect(component).toBeTruthy();
   });
+  
 });
