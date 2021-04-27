@@ -15,11 +15,11 @@ export class ShoppingCartService {
     // console.log("added", product)
     // localStorage.setItem('shoppingCart', JSON.stringify(product))
     let items = this.getShoppingCartItems();
-    if(items){
+    if(items){                   //if item is already present then push the new product into the array
       items.push(product)
       localStorage.setItem('shoppingCart', JSON.stringify(items))
 
-    }else{
+    }else{                      //if no item then create an array and then add the new item to the array
       this.shoppingCart_items.push(product);
        localStorage.setItem('shoppingCart', JSON.stringify(this.shoppingCart_items))
     }

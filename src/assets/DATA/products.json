@@ -8,10 +8,10 @@
      "ratings": 4},
      {   
         "id": 2,
-        "title": "PlayStation 4 Slim 1TB",
-         "desc": "PlayStation 4 Slim 1TB Console - Only On PlayStation Bundle",
+        "title": "Robert Frost:Poet of Human Concerns",
+         "desc": "A value addition to the existing scholarship on Frost",
          "price": 488.00,
-         "image": "https://images-na.ssl-images-amazon.com/images/I/814Cwlg1JaL._SL1500_.jpg",
+         "image": "https://m.media-amazon.com/images/I/91upCY8QpWL._AC_UY327_FMwebp_QL65_.jpg",
          "ratings": 5
      },
      {
@@ -31,10 +31,54 @@
          "ratings": 5
      },
      {    "id": 5, 
-         "title":"Lavazza Super Crema Whole Bean Coffee Blend, Medium Espresso Roast",
-         "desc": "Lavazza Super Crema Whole Bean Coffee Blend, Medium Espresso Roast, 2.2 Pound (Pack of 1)",
+         "title":"Eleanor and Park",
+         "desc": "By Rainbow Rowell",
          "price": 54.36,
-         "image": "https://images-na.ssl-images-amazon.com/images/I/61fpw9inWTL._SL1296_.jpg",
-         "ratings": 2
+         "image": "https://images-eu.ssl-images-amazon.com/images/I/51FGBdr8FYL._SY264_BO1,204,203,200_QL40_FMwebp_.jpg",
+         "ratings": 4.5
+
+     },
+     {
+        "id": 6, 
+        "title":"Machine Learning",
+        "desc": "A Probabilistic Perspective (Adaptive Computation and Machine Learning series) Hardcover – Illustrated, 24 August 2012",
+        "price": 540,
+        "image": "https://images-eu.ssl-images-amazon.com/images/I/41GaLtcZ2sL._SX198_BO1,204,203,200_QL40_FMwebp_.jpg",
+        "ratings": 5
+
+     },
+
+     {
+        "id": 7, 
+        "title":"What if It’s Us ",
+        "desc": "by Adam Silvera  (Author), Becky Albertalli  (Author)",
+        "price": 15,
+        "image": "https://images-na.ssl-images-amazon.com/images/I/51-l21CdwOL._SX326_BO1,204,203,200_.jpg",
+        "ratings": 3.9 
+     },
+
+     {
+        "id": 8, 
+        "title":"Computer Networks | Fifth Edition | By Pearson (5th Edition) ",
+        "desc": "by Tanenbaum (Author)",
+        "price": 30,
+        "image": "https://images-na.ssl-images-amazon.com/images/I/51WWOcqo1CL._SX394_BO1,204,203,200_.jpg",
+        "ratings": 5
+     },
+     {
+        "id": 9, 
+        "title":"Red, White & Royal Blue: A Novel",
+        "desc": "by Casey McQuiston  (Author)",
+        "price": 8,
+        "image": "https://images-na.ssl-images-amazon.com/images/I/41IqOGQn3RL._SX322_BO1,204,203,200_.jpg",
+        "ratings": 4.8
+     },
+     {
+        "id": 10, 
+        "title":"Aristotle and Dante Discover the Secrets of the Universe",
+        "desc": "by Benjamin Alire Sáenz (Author)",
+        "price": 10,
+        "image": "https://images-na.ssl-images-amazon.com/images/I/51ACA9AgQhL._SX331_BO1,204,203,200_.jpg",
+        "ratings": 5
      }
 ]
